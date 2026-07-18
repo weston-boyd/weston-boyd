@@ -2,7 +2,7 @@
 
 ## Python Developer | Quantitative Research | Algorithmic Trading Systems
 
-I'm an independent Python developer building **WesB Algos**, a platform for quantitative research, systematic strategy development, backtesting, market-data analysis, portfolio analytics, and automated execution.
+I'm an independent Python developer and founder of WesB Algos, a platform for quantitative research, systematic strategy development, backtesting, market-data engineering, portfolio analytics, and automated execution.
 
 ### 🔭 Current Focus
 
