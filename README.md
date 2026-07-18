@@ -2,18 +2,24 @@
 
 ## Python Developer | Quantitative Research | Algorithmic Trading Systems
 
-I'm an independent Python developer and founder of WesB Algos, a platform for quantitative research, systematic strategy development, backtesting, market-data engineering, portfolio analytics, and automated execution.
+I'm an independent Python developer and founder of **WesB Algos**, a Python-based platform for quantitative research, market-data engineering, systematic strategy development, backtesting, portfolio analytics, and automated execution.
 
-### 🔭 Current Focus
+I enjoy building reliable, well-tested software that combines quantitative research, financial markets, and modern Python development.
 
-- Building systematic trading software
-- Quantitative research
+---
+
+## 🔭 Current Focus
+
+- Building the WesB Algos research platform
+- Systematic trading research
 - Market-data engineering
 - Python application development
 - AI-assisted software engineering
 - Financial data analysis
 
-### 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - Python
 - Git & GitHub
@@ -23,18 +29,24 @@ I'm an independent Python developer and founder of WesB Algos, a platform for qu
 - Streamlit
 - pytest
 
-### 📈 Current Projects
+---
 
-- WesB Algos
-- Systematic futures research
-- Cryptocurrency strategy research
-- Portfolio analytics
-- Market-data pipelines
+## 📦 Featured Projects
 
-### Background
+- 📈 **Market Data Toolkit** – Financial market-data validation and analysis tools
+- ✅ **Backtest Honesty Toolkit** – Infrastructure for detecting look-ahead bias, execution ambiguity, and research integrity issues
+- 🤖 **WesB Algos** – Modular quantitative research and algorithmic trading platform *(private development)*
+- 📊 Portfolio analytics and research infrastructure
+- ⚙️ Automated market-data pipelines
 
-Before transitioning into software development, I served as a United States Marine and later worked as a firefighter/paramedic. Those experiences shaped my approach to discipline, documentation, testing, operational reliability, and problem solving.
+---
 
-### Connect
+## 🎖 Background
 
-- LinkedIn: www.linkedin.com/in/weston-boyd
+Before transitioning into software development, I served in the **United States Marine Corps** and later worked as a **Firefighter/Paramedic**. Those experiences shaped my approach to disciplined engineering, documentation, testing, operational reliability, and problem solving.
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/weston-boyd
