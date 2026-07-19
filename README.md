@@ -2,19 +2,19 @@
 
 ## Python Developer | Quantitative Research | Algorithmic Trading Systems
 
-I'm an independent Python developer and founder of **WesB Algos**, a Python-based platform for quantitative research, market-data engineering, systematic strategy development, backtesting, portfolio analytics, and automated execution.
+I'm an independent Python developer building **WesB Algos**, a Python platform for quantitative research, market-data engineering, systematic strategy development, backtesting infrastructure, portfolio analytics, and automated execution.
 
-I enjoy building reliable, well-tested software that combines quantitative research, financial markets, and modern Python development.
+I enjoy designing reliable, well-tested software that combines quantitative finance, financial markets, and modern Python engineering.
 
 ---
 
 ## 🔭 Current Focus
 
-- Building the WesB Algos research platform
-- Systematic trading research
+- Building the WesB Algos quantitative research platform
+- Quantitative research infrastructure
+- Backtesting and execution systems
 - Market-data engineering
-- Python application development
-- AI-assisted software engineering
+- Python software architecture
 - Financial data analysis
 
 ---
@@ -28,22 +28,25 @@ I enjoy building reliable, well-tested software that combines quantitative resea
 - NumPy
 - Streamlit
 - pytest
+- GitHub Actions
 
 ---
 
 ## 📦 Featured Projects
 
+- 📊 **Quant Research Pipeline** – Dependency-aware framework for auditable quantitative strategy research and validation
 - 📈 **Market Data Toolkit** – Financial market-data validation and analysis tools
 - ✅ **Backtest Honesty Toolkit** – Infrastructure for detecting look-ahead bias, execution ambiguity, and research integrity issues
+- 🚧 **Quant Backtest Engine** *(in development)*
 - 🤖 **WesB Algos** – Modular quantitative research and algorithmic trading platform *(private development)*
-- 📊 Portfolio analytics and research infrastructure
-- ⚙️ Automated market-data pipelines
 
 ---
 
 ## 🎖 Background
 
-Before transitioning into software development, I served in the **United States Marine Corps** and later worked as a **Firefighter/Paramedic**. Those experiences shaped my approach to disciplined engineering, documentation, testing, operational reliability, and problem solving.
+Before transitioning into software development, I served in the **United States Marine Corps** and later worked as a **Firefighter/Paramedic**.
+
+Those experiences shaped my approach to disciplined engineering, documentation, testing, operational reliability, and systematic problem solving.
 
 ---
 
