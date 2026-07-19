@@ -32,13 +32,33 @@ I enjoy designing reliable, well-tested software that combines quantitative fina
 
 ---
 
-## 📦 Featured Projects
+## ⭐ Public Repositories
 
-- 📊 **Quant Research Pipeline** – Dependency-aware framework for auditable quantitative strategy research and validation
-- 📈 **Market Data Toolkit** – Financial market-data validation and analysis tools
-- ✅ **Backtest Honesty Toolkit** – Infrastructure for detecting look-ahead bias, execution ambiguity, and research integrity issues
-- 🚧 **Quant Backtest Engine** *(in development)*
-- 🤖 **WesB Algos** – Modular quantitative research and algorithmic trading platform *(private development)*
+| Repository | Description |
+|---|---|
+| [**quant-research-pipeline**](https://github.com/weston-boyd/quant-research-pipeline) | Dependency-aware framework for auditable quantitative strategy research, validation, evidence tracking, and deployment readiness |
+| [**market-data-toolkit**](https://github.com/weston-boyd/market-data-toolkit) | Tested Python toolkit for validating and analyzing financial time-series data |
+| [**backtest-honesty-toolkit**](https://github.com/weston-boyd/backtest-honesty-toolkit) | Research-integrity toolkit for detecting look-ahead bias, execution ambiguity, and trade-ledger inconsistencies |
+
+---
+
+## 🏗 WesB Algos Ecosystem
+
+**WesB Algos** is my private quantitative research and algorithmic trading platform.
+
+It includes:
+
+- Market-data ingestion and validation
+- Systematic strategy research
+- Backtesting and execution simulation
+- Portfolio analytics and risk analysis
+- Research validation and honesty auditing
+- Automated execution infrastructure
+- Trade inspection and replay tooling
+
+The public repositories above are reusable components extracted and generalized from this broader platform.
+
+My next planned public extraction is the **Quant Backtest Engine**, which already exists within WesB Algos and will be generalized into a standalone repository.
 
 ---
 
@@ -52,4 +72,4 @@ Those experiences shaped my approach to disciplined engineering, documentation, 
 
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/weston-boyd
+- [LinkedIn](https://www.linkedin.com/in/weston-boyd)
